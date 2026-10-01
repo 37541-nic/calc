@@ -137,7 +137,6 @@ function App() {
           <section className="materials-block" aria-labelledby="materials-heading" aria-live="polite">
             <div className="materials-heading-row">
               <div>
-                <div className="eyebrow materials-eyebrow"><span>03</span> MATERIAIS</div>
                 <h2 id="materials-heading">O que você vai usar</h2>
               </div>
             </div>
